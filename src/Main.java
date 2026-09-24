@@ -10,7 +10,7 @@ public class Main{
 
 
         /* multi line comment */
-        /* my name is ambika shrestha
+        /* my name is anshu shrestha
            i am not a boy
          */
 
